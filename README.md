@@ -18,6 +18,14 @@
 ![Aditya-Coomar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Coomar&theme=vision-friendly-dark&hide_border=false) <br/>
 ![Aditya-Coomar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Coomar&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact)
 
+<br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Aditya-Coomar&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+
+<br>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
