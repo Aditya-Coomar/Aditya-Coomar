@@ -1,0 +1,155 @@
+{
+  "widgets": [
+    {
+      "widgetId": "surveillance-header",
+      "name": "Surveillance-header Widget",
+      "position": {
+        "x": 10,
+        "y": 0
+      },
+      "size": {
+        "width": 780,
+        "height": 417
+      },
+      "config": {
+        "accentColor": "#c084fc",
+        "customTitle": "Surveillance Header",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#ff55ff",
+        "modeTag": "198X MODE",
+        "animationType": "fade-in",
+        "animationPreviewKey": 3
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1795729885830_0"
+    },
+    {
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 10,
+        "y": 417
+      },
+      "size": {
+        "width": 780,
+        "height": 420
+      },
+      "config": {
+        "accentColor": "#00ff88",
+        "customTitle": "Terminal Telemetry",
+        "secondaryColor": "#55ffff",
+        "ledColor": "#00ff88",
+        "animationType": "fade-in",
+        "animationPreviewKey": 6
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2,
+      "instanceId": "widget_1795729885830_1"
+    },
+    {
+      "widgetId": "surveillance-feeds",
+      "name": "Surveillance-feeds Widget",
+      "position": {
+        "x": 10,
+        "y": 845
+      },
+      "size": {
+        "width": 780,
+        "height": 190
+      },
+      "config": {
+        "accentColor": "#ffb454",
+        "customTitle": "Surveillance Social Feeds",
+        "secondaryColor": "#ff5555",
+        "ledColor": "#ffb454",
+        "animationType": "scan-lines",
+        "animationPreviewKey": 5,
+        "renderMode": "grid",
+        "selectedFeed": "email"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3,
+      "instanceId": "widget_1795729885830_2"
+    },
+    {
+      "widgetId": "surveillance-loadout",
+      "name": "Surveillance-loadout Widget",
+      "position": {
+        "x": 10,
+        "y": 1051
+      },
+      "size": {
+        "width": 776,
+        "height": 200
+      },
+      "config": {
+        "accentColor": "#ffb454",
+        "customTitle": "Daily Loadout",
+        "languages": [
+          "TypeScript",
+          "Python",
+          "JavaScript",
+          "CSS",
+          "HTML",
+          "Dockerfile",
+          "HTML5",
+          "CSS3",
+          "C"
+        ],
+        "workflow": [
+          "Git",
+          "Docker",
+          "Linux",
+          "React",
+          "Next.js",
+          "MongoDB",
+          "MySQL",
+          "PostgreSQL",
+          "FastAPI",
+          "Node.js",
+          "Express",
+          "NestJS",
+          "Prisma",
+          "Redis",
+          "Supabase",
+          "Ansible",
+          "Cloudflare",
+          "Nginx",
+          "GitHub Actions",
+          "Prometheus",
+          "Tailwind",
+          "Redux",
+          "Firebase"
+        ],
+        "displayMode": "logo",
+        "animationType": "glitch",
+        "animationPreviewKey": 7,
+        "secondaryColor": "#ff5555",
+        "ledColor": "#ffb454",
+        "showTitle": false,
+        "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1795729885830_3"
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#050308",
+    "textColor": "#e5e5e5",
+    "accentColor": "#55ffff",
+    "borderColor": "#1a1424",
+    "fontFamily": "Space Grotesk",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "rugbedbugg",
+    "transparentBackground": true
+  },
+  "templateId": "rugbedbugg"
+}
